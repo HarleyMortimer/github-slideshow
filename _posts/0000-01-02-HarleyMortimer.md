@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hamburgers don't usually contain Ham, but in fact contain beef.
 Use the left arrow to go back!
